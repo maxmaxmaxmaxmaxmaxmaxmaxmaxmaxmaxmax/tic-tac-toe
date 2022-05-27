@@ -139,7 +139,7 @@ def draw():
         text(" to start", 95, 500)
         textSize(20);
         text("p1 use q,w,e,a,s,d,z,x,c, for control",165, 525)
-        text("p2 use t,y,u,g,h,j,v,b,n, for control",165, 550)
+        text("p2 use t,y,u,g,h,j,b,n,m, for control",165, 550)
 
 
     if int(q)+int(w)+int(e) == 3 or int(a)+int(s)+int(d) == 3 or int(z)+int(x)+int(c) == 3 or int(q)+int(a)+int(z) == 3 or int(w)+int(s)+int(x) == 3 or int(e)+int(d)+int(c) == 3 or int(e)+int(s)+int(z) == 3 or int(q)+int(s)+int(c) == 3:
